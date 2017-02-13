@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="Budgetberegniner_v1._01.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Budgetberegniner_v1._01"
+    RequestedTheme="Light">
+
+</Application>
